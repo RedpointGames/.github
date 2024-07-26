@@ -1,7 +1,5 @@
 # Redpoint Games on GitHub
 
-All of our open source work is available on our [GitLab instance](https://src.redpoint.games/).
+GitHub hosts our open source projects that we accept pull requests for. By submitting a pull request to one of our repositories on GitHub, you agree that you're licensing your code under an MIT license.
 
-We do have a few projects mirrored to GitHub, but we do not accept pull requests on GitHub. The mirrors provided here are mostly for archival purposes.
-
-If you would like to contribute to any of our open source projects, [view the contribution guide](https://src.redpoint.games/redpointgames/contributing).
+For open source software that we do not currently accept contributions for, please refer to our [GitLab instance](https://src.redpoint.games/) instead.
